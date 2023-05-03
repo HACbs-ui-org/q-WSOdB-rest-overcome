@@ -26,7 +26,7 @@ spec:
         app.kubernetes.io/instance: java-quarkus-hello-docker2-bhth
     spec:
       containers:
-      - image: java-quarkus-image:latest
+      - image: quay.io/stonesoupuicluster/burrzinga-hac-tenant/q/java-quarkus-hello-docker2-bhth@sha256:96ef48fbd51017aacef131b52ddfe6e8232d5f3db5d4ea08de2d0c4a61aaedfb
         name: my-java-quarkus
         ports:
         - containerPort: 8081

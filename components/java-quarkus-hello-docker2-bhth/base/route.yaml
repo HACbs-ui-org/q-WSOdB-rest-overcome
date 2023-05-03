@@ -8,7 +8,7 @@ metadata:
     app.kubernetes.io/managed-by: kustomize
     app.kubernetes.io/name: java-quarkus-hello-docker2-bhth
     app.kubernetes.io/part-of: q
-  name: java-quarkus-hello-dockeri6zj
+  name: java-quarkus-hello-dockerwxvq
   namespace: burrzinga-hac-tenant
 spec:
   path: /
